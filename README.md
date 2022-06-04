@@ -29,7 +29,7 @@ positivo, negativo o nulo.
 9. Escribir un programa que lea la hora de un día de notación de 24 horas y la respuesta en notación de 
 horas. Por ejemplo, si la entrada es 13:45, la salida será 1:45 PM. 
 
-10.Escribir un programa que determine si un año es bisiesto. Un año es bisiesto si es múltiplo de 4(por 
+10. Escribir un programa que determine si un año es bisiesto. Un año es bisiesto si es múltiplo de 4(por 
 ejemplo 1984). Sin embargo, los años múltiplos de 100 sólo son bisiestos cuando a la vez son múltiplos 
 de 400(por ejemplo, 1800 no es bisiesto, mientras que 2000 si lo es). 
 

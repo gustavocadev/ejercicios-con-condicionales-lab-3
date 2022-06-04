@@ -25,9 +25,9 @@ la matrícula, el promedio y la palabra “aprobado” si el alumno tiene un pro
 positivo, negativo o nulo.
 
 8. Diseñe el programa tal, que dado un número entero A; determine si el mismo es par, impar o nulo.
-9. 
-10. Escribir un programa que lea la hora de un día de notación de 24 horas y la respuesta en notación de 
-12 horas. Por ejemplo, si la entrada es 13:45, la salida será 1:45 PM. 
+
+9. Escribir un programa que lea la hora de un día de notación de 24 horas y la respuesta en notación de 
+horas. Por ejemplo, si la entrada es 13:45, la salida será 1:45 PM. 
 
 10.Escribir un programa que determine si un año es bisiesto. Un año es bisiesto si es múltiplo de 4(por 
 ejemplo 1984). Sin embargo, los años múltiplos de 100 sólo son bisiestos cuando a la vez son múltiplos 
